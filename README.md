@@ -1,0 +1,1 @@
+Program rozkłada początkowy wyraz i jego odwróconą wersje na pojedyńcze litery aby sprawdzić czy obydwa wyrazy są takie same, jeżeli są program zwraca wartość true i wyświetla komunikat że podany text przez użytkownika jest palindromem", jeżeli wyraz nie jest taki sam program zwraca wartość false i wyswietla komunikat że wyraz nie jest palindromem
